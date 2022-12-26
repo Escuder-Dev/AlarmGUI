@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AlarmGUI", "AlarmGUI.pyproj", "{14FE0ADD-F8F2-4840-95E5-4D015CE39607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FE0ADD-F8F2-4840-95E5-4D015CE39607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FE0ADD-F8F2-4840-95E5-4D015CE39607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F39520-FB98-4EF3-A6A7-45C244B77045}
+	EndGlobalSection
+EndGlobal
